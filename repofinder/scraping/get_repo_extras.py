@@ -4,7 +4,9 @@
 import pandas as pd
 import sqlite3
 import base64
-from repofinder.scraping.repo_scraping_utils import github_api_request
+from repofinder.scraping.repo_scraping_utils import (
+    github_api_request, fetch_repo_extras_graphql, GRAPHQL_BATCH_SIZE
+)
 
 
 def get_feature_content(full_name, headers, feature):
@@ -172,41 +174,95 @@ def get_features_data(repo_file, db_file, headers, features_list):
         conn.close()
         return
     
-    for i, row in repo_df.iterrows():
-        full_name = row["full_name"]
-        progress_pct = ((i + 1) / total) * 100
-        print(f"[{i+1}/{total} ({progress_pct:.1f}%)] Processing {full_name}...", end=' ', flush=True)
+    # Separate features into GraphQL-batchable and REST-only
+    gql_features = {"readme", "release_downloads"}
+    gql_requested = [f for f in features_list if f in gql_features]
+    rest_only_features = [f for f in features_list if f not in gql_features]
 
-        # If release_downloads is already present (non-null/non-empty), skip
-        # gathering any other attributes for this repository to save requests.
-        if "release_downloads" in features_list:
-            existing_dl = row.get("release_downloads")
-            if pd.notna(existing_dl) and str(existing_dl).strip() != "":
-                print(" skipped (release_downloads already present)")
-                continue
-        
-        values = []
-        features_to_update = []
-        for feature in features_list:
-            # Check if feature is already in database (not NULL and not empty)
-            existing_value = row[feature]
-            if pd.notna(existing_value) and str(existing_value).strip() != '':
-                # Feature already exists, skip API request and keep existing value
-                values.append(existing_value)
-                features_to_update.append(feature)
-            else:
-                # Feature is missing, fetch from API
-                result = get_feature_content(full_name, headers, feature)
-                values.append(str(result) if result is not None else None)
-                features_to_update.append(feature)
-        # Only update if we have features to update
-        if features_to_update:
-            set_clause = ", ".join([f"{feature} = ?" for feature in features_to_update])
-            sql = f"UPDATE repositories SET {set_clause} WHERE full_name = ?"
-            cursor.execute(sql, (*values, full_name))
+    # --- GraphQL batch pass for readme + release_downloads ---
+    if gql_requested:
+        repo_tuples = []
+        for _, row in repo_df.iterrows():
+            needs_fetch = any(
+                f in gql_requested and (pd.isna(row.get(f)) or str(row.get(f, "")).strip() == "")
+                for f in gql_requested
+            )
+            if needs_fetch:
+                owner, name = row["full_name"].split("/", 1)
+                repo_tuples.append((owner, name))
+
+        print(f"Fetching readme/release_downloads via GraphQL for {len(repo_tuples)} repos...")
+        needs_rest_readme = []
+
+        for batch_start in range(0, len(repo_tuples), GRAPHQL_BATCH_SIZE):
+            batch = repo_tuples[batch_start: batch_start + GRAPHQL_BATCH_SIZE]
+            batch_results = fetch_repo_extras_graphql(batch, headers)
+
+            for full_name, extras in batch_results.items():
+                updates = {}
+                if "readme" in gql_requested and extras["readme"]:
+                    updates["readme"] = extras["readme"]
+                elif "readme" in gql_requested and extras["needs_rest_readme"]:
+                    needs_rest_readme.append(full_name)
+                if "release_downloads" in gql_requested:
+                    updates["release_downloads"] = extras["release_downloads"]
+                if updates:
+                    set_clause = ", ".join(f"{k} = ?" for k in updates)
+                    cursor.execute(
+                        f"UPDATE repositories SET {set_clause} WHERE full_name = ?",
+                        (*updates.values(), full_name),
+                    )
+
             conn.commit()
-        print("Done")
-    
+            done = min(batch_start + GRAPHQL_BATCH_SIZE, len(repo_tuples))
+            print(f"GraphQL extras: {done}/{len(repo_tuples)} repos processed...")
+
+        # REST fallback for repos where GraphQL returned no README (case-sensitivity misses)
+        if needs_rest_readme and "readme" in gql_requested:
+            print(f"REST fallback for {len(needs_rest_readme)} repos with missing README...")
+            for full_name in needs_rest_readme:
+                result = get_feature_content(full_name, headers, "readme")
+                cursor.execute(
+                    "UPDATE repositories SET readme = ? WHERE full_name = ?",
+                    (str(result) if result is not None else None, full_name),
+                )
+            conn.commit()
+
+    # --- REST pass for remaining features (community files, security policy, etc.) ---
+    if rest_only_features:
+        rest_conditions = " OR ".join(
+            [f"({f} IS NULL OR {f} = '')" for f in rest_only_features]
+        )
+        rest_query = f"""
+            SELECT full_name, {', '.join(rest_only_features)}
+            FROM repositories
+            WHERE (archived = 0 OR archived = FALSE OR archived IS NULL)
+              AND (size > 0 OR size IS NULL)
+              AND (fork = 0 OR fork = FALSE OR fork IS NULL)
+              AND (is_template = 0 OR is_template = FALSE OR is_template IS NULL)
+              AND ({rest_conditions})
+        """
+        rest_df = pd.read_sql_query(rest_query, conn)
+        print(f"Fetching {rest_only_features} via REST for {len(rest_df)} repos...")
+
+        for i, row in rest_df.iterrows():
+            full_name = row["full_name"]
+            updates = {}
+            for feature in rest_only_features:
+                existing = row.get(feature)
+                if pd.isna(existing) or str(existing).strip() == "":
+                    result = get_feature_content(full_name, headers, feature)
+                    updates[feature] = str(result) if result is not None else None
+            if updates:
+                set_clause = ", ".join(f"{k} = ?" for k in updates)
+                cursor.execute(
+                    f"UPDATE repositories SET {set_clause} WHERE full_name = ?",
+                    (*updates.values(), full_name),
+                )
+            if (i + 1) % 100 == 0 or (i + 1) == len(rest_df):
+                conn.commit()
+                print(f"REST extras: {i+1}/{len(rest_df)} repos processed...")
+
     print(f"\nCompleted: Processed {total}/{total} repositories")
 
     conn.close()

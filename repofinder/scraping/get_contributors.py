@@ -4,7 +4,10 @@
 import pandas as pd
 import sqlite3
 import logging
-from repofinder.scraping.repo_scraping_utils import github_api_request, get_next_link
+from repofinder.scraping.repo_scraping_utils import (
+    github_api_request, get_next_link,
+    fetch_contributor_details_graphql, GRAPHQL_BATCH_SIZE
+)
 
 logger = logging.getLogger(__name__)
 
@@ -137,63 +140,72 @@ def get_contributor_data(repo_file, db_file, headers):
     # List of bot usernames/patterns to skip
     bots_to_skip = ["copilot", "dependabot[bot]", "github-actions[bot]", "dependabot", "github-actions"]
     
-    # Process sequentially (no multithreading)
     total_repos = len(repo_df)
     print(f"Processing {total_repos} repositories for contributor data...")
-    
+
+    # Pass 1 — collect contributor logins for every repo via REST (no GraphQL equivalent)
+    repo_contributor_logins = {}  # full_name -> [login, ...]
+    all_unique_logins = set()
+
     for idx, row in repo_df.iterrows():
         full_name = row["full_name"]
-        owner, repo_name = full_name.split("/")
-        
+        owner, repo_name = full_name.split("/", 1)
         try:
             contributors = get_contributors(owner, repo_name, headers)
-            contributors_login = []
-            contributor_details_list = []
-            
-            for contributor in contributors:
-                contributor_login = contributor['login']
-                
-                # Skip bot contributors (case-insensitive matching)
-                contributor_lower = contributor_login.lower()
-                if any(bot.lower() in contributor_lower for bot in bots_to_skip):
-                    continue
-                
-                # Also check if login ends with [bot] pattern
-                if contributor_login.endswith('[bot]'):
-                    continue
-                
-                details = get_contributor_details(contributor_login, headers)
-                
-                # Only add contributor if details were successfully fetched (not 404)
-                if details:
-                    contributor_details_list.append((details, contributor_login))
-                    contributors_login.append(contributor_login)
-            
-            # Insert contributor details into database
-            for details, contributor_login in contributor_details_list:
-                conn.execute("""
-                    INSERT OR REPLACE INTO contributors (login, name, bio, location, company, email, twitter)
-                    VALUES (:login, :name, :bio, :location, :company, :email, :twitter)
-                """, details)
-                conn.execute("INSERT OR IGNORE INTO contributions (repository_name, contributor_login) VALUES (?, ?)", 
-                            (full_name, contributor_login))
-            
-            # Update repository with contributors list
-            repo_df.at[idx, "contributors"] = contributors_login
-            contributors_login_string = str(contributors_login)
-            conn.execute("UPDATE repositories SET contributors = ? WHERE full_name = ?;",
-                        (contributors_login_string, full_name))
-            
-            processed_count = idx + 1
-            if processed_count % 25 == 0 or processed_count == total_repos:
-                conn.commit()
-                print(f"{processed_count}/{total_repos}: repositories processed")
-                
+            logins = [
+                c["login"] for c in contributors
+                if not any(bot.lower() in c["login"].lower() for bot in bots_to_skip)
+                and not c["login"].endswith("[bot]")
+            ]
+            repo_contributor_logins[full_name] = logins
+            all_unique_logins.update(logins)
         except Exception as e:
-            logger.error(f"Error processing repository {full_name}: {e}")
-            continue
-    
-    conn.commit()  # Final commit
+            logger.error(f"Error fetching contributor list for {full_name}: {e}")
+            repo_contributor_logins[full_name] = []
+
+        processed_count = idx + 1
+        if processed_count % 100 == 0 or processed_count == total_repos:
+            print(f"Contributor lists: {processed_count}/{total_repos} repos done...")
+
+    # Pass 2 — fetch contributor details in GraphQL batches
+    unique_logins = list(all_unique_logins)
+    print(f"Fetching details for {len(unique_logins)} unique contributors via GraphQL...")
+    contributor_details_map = {}  # login -> details dict
+
+    for batch_start in range(0, len(unique_logins), GRAPHQL_BATCH_SIZE):
+        batch = unique_logins[batch_start: batch_start + GRAPHQL_BATCH_SIZE]
+        details_list = fetch_contributor_details_graphql(batch, headers)
+        for details in details_list:
+            contributor_details_map[details["login"]] = details
+        done = min(batch_start + GRAPHQL_BATCH_SIZE, len(unique_logins))
+        if done % 500 == 0 or done == len(unique_logins):
+            print(f"Contributor details: {done}/{len(unique_logins)} fetched...")
+
+    # Pass 3 — write to DB
+    for full_name, logins in repo_contributor_logins.items():
+        valid_logins = []
+        for login in logins:
+            details = contributor_details_map.get(login)
+            if not details:
+                continue
+            conn.execute(
+                "INSERT OR REPLACE INTO contributors "
+                "(login, name, bio, location, company, email, twitter) "
+                "VALUES (:login, :name, :bio, :location, :company, :email, :twitter)",
+                details,
+            )
+            conn.execute(
+                "INSERT OR IGNORE INTO contributions (repository_name, contributor_login) VALUES (?, ?)",
+                (full_name, login),
+            )
+            valid_logins.append(login)
+
+        conn.execute(
+            "UPDATE repositories SET contributors = ? WHERE full_name = ?",
+            (str(valid_logins), full_name),
+        )
+
+    conn.commit()
     print(f"Completed: {total_repos}/{total_repos} repositories processed")
 
     conn.close()
