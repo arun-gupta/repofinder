@@ -26,6 +26,7 @@ from repofinder.scraping.json_to_db import create_and_populate_database, populat
 from repofinder.filtering.score_based_classifier import compute_predictions_sbc
 from dotenv import load_dotenv
 import os
+import sqlite3
 
 DOTENV = ".env"
 load_dotenv(DOTENV)
@@ -68,6 +69,16 @@ def scrape_minimal(university_acronyms=["UCSC"]):
         print(f"[{acronym}] Fetching repos from users...")
         get_repositories_from_users(acronym, user_file, HEADERS)
         create_and_populate_database(repo_from_users_file, db_file, search_method='user_search')
+
+        # Ensure columns populated by skipped steps exist (SBC queries them)
+        conn = sqlite3.connect(db_file)
+        for col in ("organization", "contributors", "readme"):
+            try:
+                conn.execute(f"ALTER TABLE repositories ADD COLUMN {col} TEXT")
+            except sqlite3.OperationalError:
+                pass  # column already exists
+        conn.commit()
+        conn.close()
 
         print(f"[{acronym}] Running score-based affiliation classifier...")
         compute_predictions_sbc(acronym, config_file, db_file)
