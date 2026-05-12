@@ -703,6 +703,161 @@ def get_repositories_from_users(university_acronym, user_json, headers):
 
     print(f"Completed: Collected repositories from {processed}/{total_users} users")
         
+# ---------------------------------------------------------------------------
+# GraphQL helpers for repo extras and contributor details
+# ---------------------------------------------------------------------------
+
+_README_CANDIDATES = ["README.md", "readme.md", "Readme.md", "README.MD", "README.rst", "readme.rst"]
+
+def _build_repo_extras_batch_query(repos):
+    """
+    Build a GraphQL query that fetches README text and release download counts
+    for up to GRAPHQL_BATCH_SIZE (owner, name) pairs in one round-trip.
+
+    Parameters
+    ----------
+    repos : list of (owner, name) tuples
+
+    Returns
+    -------
+    str
+        GraphQL query string.
+    """
+    alias_blocks = []
+    for i, (owner, name) in enumerate(repos):
+        esc_owner = owner.replace('"', '\\"')
+        esc_name = name.replace('"', '\\"')
+        readme_fragments = "\n".join(
+            f'      r{j}: object(expression: "HEAD:{path}") {{ ... on Blob {{ text }} }}'
+            for j, path in enumerate(_README_CANDIDATES)
+        )
+        alias_blocks.append(
+            f'  repo{i}: repository(owner: "{esc_owner}", name: "{esc_name}") {{\n'
+            f'{readme_fragments}\n'
+            f'    releases(first: 20) {{\n'
+            f'      nodes {{ releaseAssets(first: 20) {{ nodes {{ downloadCount }} }} }}\n'
+            f'    }}\n'
+            f'  }}'
+        )
+    return "query BatchRepoExtras {\n" + "\n".join(alias_blocks) + "\n}"
+
+
+def fetch_repo_extras_graphql(repos, headers):
+    """
+    Fetch README text and total release download counts for a batch of repos.
+
+    Parameters
+    ----------
+    repos : list of (owner, name) tuples — up to GRAPHQL_BATCH_SIZE
+    headers : dict
+
+    Returns
+    -------
+    dict mapping full_name -> {"readme": str|None, "release_downloads": int, "needs_rest_readme": bool}
+    """
+    query = _build_repo_extras_batch_query(repos)
+    data = graphql_request(query, headers)
+    results = {}
+
+    for i, (owner, name) in enumerate(repos):
+        full_name = f"{owner}/{name}"
+        if data is None:
+            results[full_name] = {"readme": None, "release_downloads": 0, "needs_rest_readme": True}
+            continue
+
+        repo_data = data.get(f"repo{i}") or {}
+
+        # Pick the first non-null README candidate
+        readme_text = None
+        for j in range(len(_README_CANDIDATES)):
+            blob = repo_data.get(f"r{j}") or {}
+            text = blob.get("text")
+            if text:
+                readme_text = text
+                break
+
+        # Sum release asset download counts
+        release_downloads = 0
+        releases = repo_data.get("releases") or {}
+        for release in releases.get("nodes", []):
+            for asset in (release.get("releaseAssets") or {}).get("nodes", []):
+                release_downloads += asset.get("downloadCount", 0)
+
+        results[full_name] = {
+            "readme": readme_text,
+            "release_downloads": release_downloads,
+            "needs_rest_readme": readme_text is None,
+        }
+
+    return results
+
+
+def _build_contributor_details_batch_query(logins):
+    """
+    Build a GraphQL query that fetches profile details for up to
+    GRAPHQL_BATCH_SIZE contributor logins in one round-trip.
+
+    Parameters
+    ----------
+    logins : list of str
+
+    Returns
+    -------
+    str
+        GraphQL query string.
+    """
+    alias_blocks = []
+    for i, login in enumerate(logins):
+        escaped = login.replace('"', '\\"')
+        alias_blocks.append(
+            f'  u{i}: user(login: "{escaped}") {{\n'
+            f'    login name bio location company email\n'
+            f'  }}'
+        )
+    return "query BatchContributorDetails {\n" + "\n".join(alias_blocks) + "\n}"
+
+
+def fetch_contributor_details_graphql(logins, headers):
+    """
+    Fetch profile details for a batch of contributor logins.
+
+    Parameters
+    ----------
+    logins : list of str — up to GRAPHQL_BATCH_SIZE
+    headers : dict
+
+    Returns
+    -------
+    list of dicts matching the shape expected by get_contributor_data():
+        login, name, bio, location, company, email
+    Missing or failed logins are skipped.
+    """
+    query = _build_contributor_details_batch_query(logins)
+    data = graphql_request(query, headers)
+    results = []
+
+    if data is None:
+        return results
+
+    for i, login in enumerate(logins):
+        user = data.get(f"u{i}")
+        if not user:
+            logger.warning(f"No GraphQL data for contributor {login}")
+            continue
+        results.append({
+            "login": user.get("login") or login,
+            "name": user.get("name"),
+            "bio": user.get("bio"),
+            "location": user.get("location"),
+            "company": user.get("company"),
+            "email": user.get("email"),
+            "twitter": None,
+            "organizations": None,
+        })
+
+    return results
+
+
 def process_items_concurrently(items, process_func, max_workers=10, rate_limit=10):
     """
     Process items concurrently with rate limiting.
