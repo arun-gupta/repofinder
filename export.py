@@ -26,7 +26,11 @@ def _export_one_gpt(acronym, threshold, db_path, university_name):
     conn.close()
     filtered = filter_data(df, threshold)
     return [
-        {"full_name": row["full_name"], "university": university_name}
+        {
+            "full_name": row["full_name"],
+            "university": university_name,
+            "affiliation_score": round(float(row["affiliation_prediction_gpt_5_mini"]), 4),
+        }
         for _, row in filtered.iterrows()
         if pd.notna(row["full_name"])
     ]
@@ -48,10 +52,13 @@ def _export_one_sbc(acronym, threshold, db_path, university_name):
     conn.close()
 
     merged = repo_df.merge(sbc_df[["html_url", "total_score"]], on="html_url", how="inner")
-    merged = merged.rename(columns={"total_score": "affiliation_prediction_gpt_5_mini"})
-    filtered = filter_data(merged, threshold)
+    filtered = filter_data(merged.rename(columns={"total_score": "affiliation_prediction_gpt_5_mini"}), threshold)
     return [
-        {"full_name": row["full_name"], "university": university_name}
+        {
+            "full_name": row["full_name"],
+            "university": university_name,
+            "affiliation_score": round(float(row["affiliation_prediction_gpt_5_mini"]), 4),
+        }
         for _, row in filtered.iterrows()
         if pd.notna(row["full_name"])
     ]
@@ -96,8 +103,13 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="repos.json",
-        help="Output JSON file path (default: repos.json)",
+        default=None,
+        help="Write all results to a single combined JSON file instead of per-university files",
+    )
+    parser.add_argument(
+        "--data-dir",
+        default="Data/universities",
+        help="Directory for per-university JSON files (default: data/universities)",
     )
     args = parser.parse_args()
 
@@ -107,10 +119,18 @@ def main():
         print(f"{acronym.upper()}: {len(repos)} repos exported")
         results.extend(repos)
 
-    with open(args.output, "w") as f:
-        json.dump(results, f, indent=2)
+        if args.output is None:
+            os.makedirs(args.data_dir, exist_ok=True)
+            out_path = os.path.join(args.data_dir, f"{acronym.lower()}.json")
+            with open(out_path, "w") as f:
+                json.dump(repos, f, indent=2)
 
-    print(f"\nTotal: {len(results)} repos written to {args.output}")
+    if args.output is not None:
+        with open(args.output, "w") as f:
+            json.dump(results, f, indent=2)
+        print(f"\nTotal: {len(results)} repos written to {args.output}")
+    else:
+        print(f"\nTotal: {len(results)} repos written to {args.data_dir}/")
 
 
 if __name__ == "__main__":
