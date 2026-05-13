@@ -108,7 +108,7 @@ def main():
     )
     parser.add_argument(
         "--data-dir",
-        default="Data/universities",
+        default="exports/universities",
         help="Directory for per-university JSON files (default: data/universities)",
     )
     args = parser.parse_args()
