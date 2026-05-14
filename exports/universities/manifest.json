@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ucb",
+    "university": "University of California, Berkeley",
+    "totalRepos": 1008,
+    "analyzedRepos": 681,
+    "generatedAt": "2026-05-14T19:26:37.960Z",
+    "discoveryThreshold": 0.3
+  },
+  {
     "slug": "ucd",
     "university": "University of California, Davis",
     "totalRepos": 1032,
