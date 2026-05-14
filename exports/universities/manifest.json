@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ucd",
+    "university": "University of California, Davis",
+    "totalRepos": 1032,
+    "analyzedRepos": 953,
+    "generatedAt": "2026-05-14T19:25:33.809Z",
+    "discoveryThreshold": 0.3
+  },
+  {
     "slug": "ucsc",
     "university": "University of California, Santa Cruz",
     "totalRepos": 1296,
