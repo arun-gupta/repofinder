@@ -1,0 +1,5042 @@
+[
+  {
+    "full_name": "erfanMhi/Deep-Reinforcement-Learning-CS285-Pytorch",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "rust0422/cs61b-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-xprex/ucb-xprex.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "YuancongGou/DiscoverEarthquakes-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kern/startup.berkeley.edu",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "Yuzhe-W/Pacman_Project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "YYYYYHC/Measure_Cache_Size",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "lhoorie/AI-projects-iust",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "dest072595/UCB_capstone_project_2024",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mahi29/ucbmunAndroid",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "brlehman/ucbdigitalhumanities",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ianphaines/ucb_physics",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "yuans1121/AAS-UCB-ASTRO121",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "nsanghi/cs285_deeprl_ucb_solutions",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "sha-huang/ucb_agentic_ai",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "anpu9/UCB-CSC1C-proj1-Game-of-Life-",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kevinysun/UCB-ANES-ML-Project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kevinysun/UCB-MA-Capstone-COVID19",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "DreamstateLogica/UCB_BMPCP",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "daphnemaschas/pacman",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "geomechanics/mpm",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "compserv/hknweb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "GamesCrafters/GamesmanUni",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "pathak22/unsupervised-video",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "sbeamer/gapbs",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "shiro873/pacman-projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "brho/akaros",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/utils",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "adarob/eXpress",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "zackads/sicp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "markyashar/UCB_WRF_Chem_Documents",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "lowvisionresearch/ReVAS",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucb-bar/firrtl2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "itsthomson/reader",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ngopaul/CANClassify",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "Russzheng/CS294_Deep_Reinforcement_Learning",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "blahanty/PHYS77-UCB-2024Spring",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "blahanty/CS188-UCB-2024Spring",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "blahanty/CS170-UCB-2024Spring",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "blahanty/CS186-UCB-2024Spring",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cjspencer/UCB-Cybersecurity",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "7ksravan/BerkAI",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "yanshao113/CS61a",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "johanoelgaard/ECON230B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "fdjunaidi/ucb-library",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "LevGolod1/ucberkeley-stat243-final",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kevin-crook-ucb/ucb_w205_crook_supplement",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "jrincayc/ucblogo-code",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "kevin-crook-ucb/ucb_mids_w205_repo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-bar/fpga-zynq",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "PKUFlyingPig/UCB-CS170",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "j2kun/ucb1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-bar/chisel2-deprecated",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "PKUFlyingPig/UCB-EE120",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ysalomon/ucb-w207-applied-ml",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "rayshi14/HybridLinUCB-python",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mxndrwgrdnr/UCB_CYPLAN255_2024",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "FyisFe/UCB-CS61A-20Fall",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/esp-llvm",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-ADRS/ADRS",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "thunfischtoast/LinUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-stat133/stat133-spring-2018",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "zjsyhjh/ucb-cs61b",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-stat133/stat133-fall-2017",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "bowieshi/UCB_CS285",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "rayshi14/LinearUCB-python",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-stat133/stat133-fall-2019",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-sts/sts",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-stat133/stat133-fall-2018",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cy-Yin/UCBerkeley-CS61A-Fall2023",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "2horse9sun/ucb_sp20_cs152_lab",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucdavis-bioinformatics-training/2017_2018-single-cell-RNA-sequencing-Workshop-UCD_UCB_UCSF",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-MIDS/r_bridge",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "takluyver/ucb-ipython-intro",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/Baremetal-IDE",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "pimentel/ucbthesis-phd",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucb-stat154/stat154-spring-2018",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "alexgtom/UCBSE",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-stat133/stat133-spring-2019",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "PKUFlyingPig/UCB-CS168",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "2horse9sun/ucb_sp20_cs162_hw",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-stat154/stat154-fall-2017",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-software/ucb_estructura_datos",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-software/ucb-tree",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "EscalanteUCB/programacion-1-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-BioE-Genetic-Design-Automation/ucb-bioe-genetic-design-automation-bioe134-234-final-project-4-UCB_BioE134_FinalProject",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UCB-BioE-Genetic-Design-Automation/ucb-bioe-genetic-design-automation-bioe134-234-transcriptdesigner-project-3-UCB_BioE134_GeneDesign",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucb-bar/RoSE",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-assignment-2-Assignment-2-Template",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-bar/Baremetal-NN",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "CC-bit/UCB-CS61A-Textbook",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "olety/TIMLinUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucbsweweb/ucb_swe_public_html",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-f25/ucb-stat-159-f25-classroom-hw-2-hw02",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "shancarter/ucb-dataviz-fall-2013",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "robohack/ucb-csrg-bsd",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "RisingUppercut/UCB_CS162_2025Fall",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cy-Yin/UCBerkeley-CS61C-Fall2020",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Naereen/Kullback-Leibler-divergences-and-kl-UCB-indexes",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "stevenpollack/ucbthesis",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/esp-isa-sim",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "MridulSharma2552007/UCBS-Attendance-app",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "XieJia15/UCB-pacman-AI-projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "calgraddata/ucbviz2019",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-f25/ucb-stat-159-f25-classroom-final-final",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-stat133/stat133-fall-2016",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Bilkent-CYBORG/ACC-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "DanielSaromo/Pacman_UCB_Behavioral_Cloning",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "sunblaze-ucb/AgentSynth",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/site",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-stat243/stat243-fall-2016",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-f25/ucb-stat-159-f25-classroom-hw3-hw03",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-stat159/stat159-fall-2016",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucdavis-bioinformatics-training/2018-May-Microbial-Community-Analysis-Workshop_UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "annieyan/Bandits-using-UCB-algorithm",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Taosheng-ty/UCBRankSIGIR2022",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-introstat/introstat-spring-2017",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Orange-OpenSource/HSLinUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "rsprouse/ucblingmisc",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "yvbbrjdr/ucb-class-monitor",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "2horse9sun/ucb_sp20_cs189_hw",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "the-eager/cs285-deeprl-ucberkeley-2021",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "JamesonThornton/UCB_DataBootcamp_Final_Project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-snap/Snap-decal-fa14",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "zjsyhjh/ucb-cs186",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbklu/ucberkeley_cas-7",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-introstat/introstat-spring-2019",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-snap/Snap-decal-Sp15",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "nianchengz/Neural_UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ccmoony/UCB-CS285",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "putongzhongdan/UCB_Pacman_FullScore",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-info251/spring2026",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "secmecUCB/ucbTesisTemplate",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "saraemoore/ucbthesisrmd",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "kjonathante/ucbsf-express-react-boilerplate",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "justinbouton/UCB_GroupProject_Hiking",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "crhnbp/UCB-CS61B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/esp-tests",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ZlatanCN/UCB-CS61A-Fall-2020",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "jidhu-mohan/Reinforcement-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/site",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "cspace-deployment/cspace-solr-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s21/site",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "cspace-deployment/cspace-webapps-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "juliamlaser/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/merlin",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "trulyronak/ucbot",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "nanusdad/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Lavenir7/UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "wonyeouuu/UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "CHUANPUCAO/UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "herring-swe/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "SYCAMORE-1/UCB-MOPPO",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Kecheng-Chen/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/cs152-lab4",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "thalesamaral/UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "dbaucbalmeida/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "smartguan/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hjunior29/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cy-Yin/UCBerkeley-EE120-Lab-Solutions",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "AleksandrTsimbulov/UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "pablodixs/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "artliou/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jpaulopd/UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "bbchopra/UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "derickjoseph8/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbverificacao/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kunalkapur1/UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hany0ng/UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbscheme/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ka1iht/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "2horse9sun/ucb_sp20_cs186_proj2-5",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "atobefan/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mboura/UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "n3wth/ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ccs-ucb/CSS1AF25",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-sts/experiments",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Baichenjia/Contrastive-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "dranaju/dqn_with_ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/opencl-kernels",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hpu-ucbs/ucbs-online-library",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "cboyden/ucb_cas",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Noam-Elisha/UCBotSO",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cy-Yin/UCBerkeley-CS189-Sp24-Machine-Learning",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucb-art/ucb_chip_io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "dailycal-projects/ucb-faculty-salary",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-introstat/introstat-fall-2018",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cy-Yin/UCBerkeley-CS61B-sp18",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Roger-Li/ucb_cs285_homework_fall2023",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "k2datascience/ucb_pyspark_archive",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Kevinma1995/ucb-cs61b-sp17",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-Econ-148/UCB-Econ-148.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Murtazali05/LinUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cspace-deployment/cspace-ui-plugin-ext-ucbnh-taxon.js",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "yang0110/GraphUCB-and-GraphUCB-Local-Algorithms",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ianfelps/compiladores_ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "EdwinTSalcedo/AAsteriskUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "dvinay/ucb-extension",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/ucb-info-frontend-webarch.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "anders-code/ucblogo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "Distrotech/ucblogo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ccs-ucb/llms-cogsci",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "vamsianumula/cs285-deeprl-ucberkeley-2021",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "yifjiang/UCB-exploration-via-ensemble",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "thlevy/bandits_kl-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tnchen/ucb-seq-processing",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ad-victoriam-101/UCB_Project_2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "szw2016run/UCB-Data8",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "AshfordLee/UCB_CS189",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "jag0717/UCB-Project1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "zhangluoyang/LinUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "csurbhi/UCB1-algorithm-for-better-caching",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "revodavid/OpenAI-Lab-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "maxyan/UCB_MIDS_W205",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "JobAngel/NASA-Rover-UCB-Team",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Leele-lee/2022fall-UCB-CS61A",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-ee192/course-site",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "CalvinHaynes/UCB-CS61B-21sp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "feintenseven/UCBdata100",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "beckyfeng08/ucbugg",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "vincent916735/Multi-arm-Bandit-using-egreedy-UCB-LinUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "RisingUppercut/UCB_CS168_25Spring",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Frankzillasaurus/UCB-CyberSecurity-Bootcamp-Work",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-f25/site",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "J-AugustoManzano/livro_Logo-Intro-UCBLogo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "HsHs-dev/UCB-CS61B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "igarnier/prbnmcn-ucb1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucla-data-science-center/2020-09-28-ucb-ucla-ucsd",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mingujo/UCBerkeley_Housing",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "alejandroramirezvallejos/UCB_Hold",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Labbi-Safwan/Fed-UCBVI",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "66661654/Raven-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Derick317/UCB-CS170-Fall-2022",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cspace-deployment/cspace-ui-plugin-ext-ucbnh-loanin.js",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "rskwan/ucb-grade-dists",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "CANVOLCANO/Graph-Conversational-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cspace-deployment/cspace-ui-plugin-ext-ucbnh-collectionobject.js",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cspace-deployment/cspace-ui-plugin-ext-ucbnh-loanout.js",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hetpatel-11/SafeWingAI_UCBerkeleyAIHackathon",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Clement25/UCB-CS285-CS294-112",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "xtst/UCB-CS61A",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ShiminLei/UCB-CS61a",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBMethaneTracker/UCB-Capstone-Methane-Tracker",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "vbeohar/ucb_mids_w205",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kamalmostafa/ucblogo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "rskwan/ucbgrades",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ph142-ucb/sp20",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Shivanshu-Gupta/cs294-158-sp20-deep-unsupervised-learning-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "JiyuanLu/CS184_UCB_S18",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "JShollaj/UCB-MAB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "stevedowney/ucb_rails",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "slane078/ucb_final",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "738NGX/UCB-Calculator",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "sdean-group/MixUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "lupuandr/Target-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "97hackbrian/SeekerUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbdrupal/ucb_mma",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "DS3Lab/GP-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "MohammadAsadolahi/KL-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "marinadunn/UCB-Coding-Projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "johnpalalia/UCB_Project3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "IsabelleLenertz/UCBerkeley_InHome",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "2horse9sun/ucb_cs170",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "interestingLSY/UCB-GPA-Calculator",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ryan-whit/ucb-module19",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "KeirSimmons/UCB-DRL-Bootcamp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "healerlason/ucb-cs169",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "2horse9sun/ucb_sp20_cs186_proj1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "VIII4/UCB_groupProject3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Angie-Lab-JHU/neuralVarLinUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "IM07813/MCTS-UCB-Transformer-Ensemble",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "dhmbb2/UCB_CS188_AI",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "xiaoyexy/cs61b-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hansonjw/ucb-ecommerce-ucb13",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-Econ-148/sp26",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "BITSS/UCBEpi2016",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "root-hbx/CS188-UCB-2024Spring",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucbtje0/ucbtje0",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Deepankar-Mishra/UCBvsETC",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "DaveLoaiza/UCBX433",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "aartimathur/ucbproject1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "menoliu/UCBShiftv2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "socalledsound/ucb173",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "LeoIntril/UCBAstron121",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "socalledsound/UCBelectro2019",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "fengweidiezhen/UCB_Summer_61C_2023",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ghonerka/ucbR",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "joaoszs/UcbFilmes",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "yash1shi/UCBtest3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "albertlk/UCBFinTech",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "gdgocucbukavu/WeatherAppGdscUcb2023",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "m-legrand/ucb15",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "AnjaliKayal/UCBw205",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cy-Yin/UCBerkeley-CS61B-sp21-Proj2-Gitlet",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "DylanSui799/UCBProjectOne",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "AlejoHuay/ucbapp2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Leandro0210/Ucb1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "yash1shi/UCBtest5",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "nicdepolo/ucbproject1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-Epi-R/ucb-epi-r.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "endothermic405/UCBCompScience",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Tatsi/UCB1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "shikhakath/ucbhackathon24",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb1122/ucb1122",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbass125/ucbass125",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "shobhit9070/UCB1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "binghe2727/ucbJAVADataStructure",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "MeganJordal/UCBerkeleyBarGraph",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "JiahuaWU/UCBcs61a",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "CrazyLine/UCB1-Greedy",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Kays8/Jest-UCBMI2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "JiahuaWU/UCBcs61b",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "solaa-yamamoto/sola-ucbExt",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tcote19/UCBerkeleyPreWork",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "akhadangi/Multi-armed-Bandits",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "tushuhei/gpucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Trinkle23897/CS294-112",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "SMPyBandits/SMPyBandits",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mcguire-steve/hybrid-linucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cfoh/Multi-Armed-Bandit-Example",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "guptav96/bandit-algorithms",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ukeSJTU/EE120",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tommyfan34/cs61a",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UCBerkeley-MIDS/W205",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "wadx2019/Neural-Bandit",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "vishalkumarchaudhary/connect4",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mgpopinjay/bandit-algorithms",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/Baremetal-IDE-bsp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Xinjie-Lan/Multi-Armed_Bandit",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/esp-gnu-toolchain",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "JoaoGuiMarques/ucb-programacao",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Vik1975/UCB_Data_Analysys",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "gabriel-os-sousa/tcc-mapa-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "susana474/ucbbot",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "BilyMR/UCB_SIS113_Tienda_Consola",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "JessieLiu00/ucb_cs61b",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "yang0110/Bandit-algorithms",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "KauanMir/UCB-Figuras-geometricas",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "rohitchhetri/ucbclass",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "guabao/hellinger_ucb_bandits",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "boris-perez/ucb_automation",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ximengwu22/ucb_61b_proj2_byog",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "rpamidimarri/ucb-filmzz",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "knishina/UCB_MiniProjects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "joao2arj/ucb_ads",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "obsicn/HelloUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "radiohead1030/UCB-CS61B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "asureshb/ucb-data",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Akabirucb/Test2-Kabir",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Fuyukiri/UCB_CS169",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "lobral2728/ucb_ml_capstone",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ArunaVallurupalli/ucb-filmzz",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "shubhiawasthi13/ucb_sql",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "timbannock/UCBHomework",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Velzeb/UCBRIDER",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "krisztian-imre/Active-Learning",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "wenruo0522/UCB-CS61A",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "RichardBercap/reacttrab2-maestria-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Enzaut/Ucb-desenvolvimento-front-end",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbmcb288/mcb288",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "lkgiovani/POO_Java_Ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "boris-perez/ucb_automation_api",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ryan-whit/ucb-module20",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ryan-whit/ucb-module12",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "nunzera/Desenvolvimento-Front-End-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ryan-whit/ucb-module13",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jag0717/UCB-Test-Project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "gabriel-os-sousa/mapa-ucb-adm",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kanaadp/ucbpoker-website",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tadwohlrapp/ucb-traffic-analytics",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-project/project-2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "lmtoan/cpp-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hansonjw/ucb-git-it-done",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Ariella1025/UCB-Sysadmin-DeCal-Note-Lab",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "BleakTerrain/UCBResume",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "szw2016run/UCB-DS100",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Joeybooo/UCB.Weekly",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "viniboy2/Estrutura-de-dados-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "JianOUO/UCB-CS61C",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "zenvaj/ucb_shop_uniapp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "GraceHsu12/UCB_HW_Javascript",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jag0717/UCB-DA-WebViz",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "prapons01/UCB_AIML",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "alvaroluna/UCB_Project2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mindfulai/mindful",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "1urch-git/UCB-Projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "katie-hsu/UCB-coding",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "LucasGPM97/FrontEnd---UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "RichardBercap/maestria-ucb-js2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "EthanM84/ucb-project3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "dllano-ucb/erpUcbApi",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "evertms/database-1-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "EddyEscalanteU/database-1-ucb-ing",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ryan-whit/ucb-module21",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ryan-whit/ucb-module14",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tsanpitak/UCB_FinTech",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "zddkjmuner/cs285-RL-2026",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "mag1cianag/UCB-CS61B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tpoovaiah/ucb_homework_portfoliopage",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "shaneworld/UCB-CS61A-Solutions",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "JianOUO/UCB-CS61B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mindfulai/ucb-data1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hansonjw/ucb-zookeepr",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "szw2016run/UCB-CS61a",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "j9stuart/DataAnalysisUCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "zhilic/ucb_data_structures",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jag0717/UCB-DA-JS-API",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "wazwaztime/UCB_DS100",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Mitan/po-gp-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "VECTOR4161/proyectoUCB-Almacen",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "aashish2894/UCB-DeepRL-Homework",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ruperrrt/UCB-CS61B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ruiyan-ma/ucb-61c",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mike-jones-mba/ucb-aiml-mod17",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ryan-whit/ucb-module17",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "YANG860/UCB-CS-61b-assignments",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "josemiguerra95/kickstarter-analysis-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "MarecaLSTHM/UCB-Data-Challenge",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Lin2305/prova_UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jag0717/UCB-Mapping-Web",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "BoscoSuen/UCB-CS61b",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-Data-Bootcamp/Crowdfunding_ETL",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tpoovaiah/ucb_homework_11",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "pkkrishnan/UCB_Data_Science_Projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "josemiguerra95/UCB-Challenge-Excel",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jag0717/UCB-DA-Tableau",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "parthacrana/challenge1ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Samuel-b10/Universidade-UcB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "GustavoNSBr/Novas-Tecnologias-Python-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ryan-whit/ucb-module6",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "VirtualSingh/ucb-pci-demo-2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hansonjw/ucb-mini-eureka",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "FI-Mihej/UCB-Source-Code-highlighter",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "btabaska/UCB-week-3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mateuskiper/english-learning-ucb-mcp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "scaperothian/ucb_mids_205_utils",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "leoschinzel/Med-Supply-Brasil---UCB-Front-end",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mdepoorter/UCB-E-Forms",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbpi/req-docs",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "bzaPetey/UCB-Public",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mlanda-dev/UCB-SIS-313_config",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "alphachamod/facialRecognition_UCB_AI",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "szw2016run/UCB-CS61b",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Guanyu-Chen08/UCB-CS61A-24Fall",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tpoovaiah/ucb_homework_21",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "willking/UCB-HW",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Kettenkrado/UCB-CS61C",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mgabriell1/SeqMAB-environmental-monitoring",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "edhana/ps3griducb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw07-group28",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "Hyperion0209/multi_armed_bandits_rl",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "alejandro-montesinos/UCB_DATA_H3_Python",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "alejandro-montesinos/UCB_DATA_H4_Pandas",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-judge/uj-config-server",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hansonjw/ucb-weatherdashboard",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "HKHH/UCB_SWITCH",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "morinlandon12/ucb_mids_w205_project_1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kmurakam26/UCB-Data-Homework",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Sun-Wukong-/UCB-Projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "YeWenting/UCB-CS285",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "P4xley/Malla-Curricular-Medicina-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ruiyan-ma/ucb-186",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "gabysmanrique/UCB-PROJECT",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jag0717/UCB-DA-MatPlotLib",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-judge/uj-service-discovery",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kepler-wang/cs61a",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "prabhy619/CS188",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "Sooneui/ucb_mids-w205-project_test",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mjlee177/UCB-MLAI-Mod5",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ryan-whit/ucb-module5",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jeffry-zheng/ucb_mids_w205",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "alejandro-montesinos/UCB_DATA_H6_APIs",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jag0717/UCB-DA-Python",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "aricciardelli2/UCB-Projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "dotruong1994/UCB_MQTT",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "iguii/ucb-judge-configurations",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "alejandro-montesinos/UCB_DATA_H1_Excel",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Adolf-L/ucb.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "grinner/ucblogo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cchaoqun/CS-162-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cjzcpsyx/UCBerkeley",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ryanhuang36/ucb-dha",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-judge/uj-gateway",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jag0717/UCB-DA-VBA",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "DianaLNguyen/ucb_mids_w281_project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBerkeley-MIDS/W241",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tpoovaiah/ucb_homework_10",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Yajingleo/ml_ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ntxucb/ntxucb.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "rosettesor/ucbthearts",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jag0717/UCB-DA-Pandas",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "bendrayucb/t_and_a_group_presentation",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tourloukisg/ReinforcementLearning_UCB_ThompsonSampling",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ranchoboy0987/Map-Landing-Page-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "pandey-dhruv/Reinforcement-Learning",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "humanitarian-data-collaboration/UCB-Team-Working-Directory",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Emma-ssq/UCB-CS61A",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "choijiwonsoc/bt4014-final-proj",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "yxcT-T/GP_UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "yichi3/UCB_Summer2018",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hansonjw/ucb-my-portfolio-old",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jmariemo/ucb-preworkStudyGuide",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hansonjw/ucb-codequiz",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tpoovaiah/ucb_homework_06",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "nivedw/UCB-Project-1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "tpoovaiah/ucb_project01",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "alineop120/programacao_web_ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mateocossio17/programacion1-ucb.",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "alejandro-montesinos/UCB_DATA_H5_Matplotlib",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "danielsharifi/atividade1_ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "VirtualSingh/ucb-demo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "NalinPlad/ucbwiki_viz",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "rthirukachoor/UCB-Excel-Projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "hansonjw/ucb-otium-capital",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "srinathnaik/Multi-Armed-Bandits",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "peer-preservation/main",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "e-mission/e-mission-server",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "singhsidhukuldeep/contextual-bandits",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "berkeley-cdss/flextensions",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "abhinavcreed13/Multi-armed-bandits-MAB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "raydavis/myberkeley",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "Evil0ctal/Upper-Confidence-Bound-Pywebio",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "czahie/CS61A",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucberkeley-ee241b/ucberkeley-ee241b.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-ee290c/ucb-ee290c.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.8
+  },
+  {
+    "full_name": "camshaft/pivot-mab-ucb1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbbioe2012/ucbbioe2012.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "aispider/github-ucb2em",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "lalbritten01/LAlbri10_UCBerkelyAI",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ElsaYilinWang/UCBerkeleyCS61A",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "julesb-10/UCB1-Algorithm-Implementation",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jlo/ucbs09pj2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "lessw2020/ucb1-reinforcement-learning",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbqc01/ucbqc01.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kenkim89/UCBDataAnalyticsBootCamp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb423/ucb423.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "yoni2528/twtsreact-ucbolf5w",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ShengjieZhao/ucbcs61a_self",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "GosmyYB/UCBerkeleyCS61b",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "pivotapp/pivot_mab_ucb1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "NP-Hardest/UCBisAllYouNeed",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "zycrobot/UCBerkeleyCS61b",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "kmjawadurrahman/apache_spark_UCBerkeleyX",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ets-berkeley-edu/suitec",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "mitltd/studentorg.berkeley.edu",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "BOINC/boinc-site",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "NgaiJustin/CalTTCwebpage",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "itwsaya/ucb-stat133-notes",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "danielczech/drake-eqn",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "Sharks33/PythonPacmanAI",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Robomate/Pacman",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "chimeh/cs61b-ss",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "auser/seti-home",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "jeremymui/pbl-website-dark-theme",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "uurehman/BerkeleyAIMaterials",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "hfeeki/boinc",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "jmoenig/Snap",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "joschu/trajopt",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "cbfinn/gps",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "fgalassi/cs61a-sp11",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "s-gupta/visual-concepts",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "icyphy/ptII",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "jponttuset/mcg",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "snap-cloud/snapCloud",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "berkeley-dsep-infra/datahub",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "phillipi/crisp-boundaries",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ceciliavision/zoom-learn-zoom",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/ocfweb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "winfeel/mfe230p",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "joschu/rapprentice",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "stasis/stasis",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "zhangjiedev/pacman",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "chenyuxiang0425/cs61a_sp20",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "prefuse/Prefuse",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "MPC-Berkeley/dlp-dataset",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "WISE-Community/WISE-DEPRECATED",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "aangelopoulos/rcps",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "hojonathanho/tracking",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "CenterForTheBuiltEnvironment/clima",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "BerkeleyBlockchain/dev-decal-sp20",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "BerkeleyBlockchain/dev-decal-sp21",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "abbas-rahimi/HDC-Language-Recognition",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "BIDS-collaborative/hackingmeasurement.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "HuanzhiMao/BFCL-Result",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ShishirPatil/gorilla",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/dns",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "WISE-Community/WISE-API",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "amplab/succinct-cpp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "fractor/nntailoring",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "beautyjoy/BJC-Teacher-Tracker",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "rakechill/dts-website",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "s-tian/bench-press",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "augcog/OpenARK",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "beautyjoy/beautyjoy.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "compserv/hkn-rails",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "gekath/reacher",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "lzervos/Berkeley_AI-Pacman_Projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ekiwi/rfuzz",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "dlab-projects/datadiversity",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "forkandwait/LCFIT",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "cadieu/twolayer",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "mie-h/Dev-DeCal-Spring-2020",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "stedt-project/sss",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "robotsorcerer/gps",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "snap-cloud/manual",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "BigEggStudy/UC-Berkeley-CS-188-Artificial-Intelligence",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "atila-s/UC-Berkeley-CS188-Intro-to-AI",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "Alexandrazhao/UC-Berkeley-CS188-Assignments",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "stegiks/Pacman-AI-UC-Berkeley",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "heromanba/UC-Berkeley-CS188-Assignments",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "dhruvchadha2212/UC-berkeley-ai-project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "dhanup369/UC-Berkeley-Extension-Projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "EdwardLeeMacau/cs188-uc-berkeley",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "Gururaj29/UC-Berkeley-Pacman-AI",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "Mateen-Ahmad/UC-Berkeley-AI-Pacman-Projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "gianniskts/UC-Berkeley-AI-Pacman-Project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "maxence-glt/UC-Berkeley-CS61a",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "joshdanielai/UC-Berkeley-Pacman-Project4",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UCBerkeleySETI/breakthrough",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "SWIMProjectUCB/SWIM",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "JonathanReeve/course-computational-literary-analysis",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "khanhnamle1994/deep-reinforcement-learning",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "dlab-berkeley/MachineLearningWG",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "YidaYin/Berkeley-CS188-Project-3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "dlab-berkeley/DIGHUM101-2022",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "steakhouserodriguez/zumy",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "evanye/cal-dining",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/INFO-290",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "berkeley-stat159/fall-2025",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "nmalkin/secweb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "colin-scott/thesis",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "wang-jiahao/CS188",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "liugongfeng/CS61A",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "MessiahChen/CS61B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/ECON-140-FA22-SB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/EDUC-W142",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/XENGLIS-31AC",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/EEP102",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "quang-nguyenln/website",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UCBerkeley-Spring2022-CS284A-Project/HDRplus",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBCFD/DbMAirfoilOpt",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "szw2016run/CS188-Project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucberkeley/matlab-parallel-2018",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "IEEEBerkeley/hope-www",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "samtokheim/datamining-yelp-categories",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UCB-Psychology-QuACK/site",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "katiechen1/researcher-app",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "CalNourish/pantry-webapp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "safi-manar/SensorInference",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "lam-man/CS61B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UCBerkeley-Spring2022-CS267-project/BLINKplus_cache",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ds-modules/CP-113B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "Nate8888/ucberkeley",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "brianwells54/ucberkeley",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cova-ucb/UCB-Capstone",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "orangedalek/ucb-bootcamp-repo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mluo123/coding-projects-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbdrupal/berkeley_blue",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "arf-berkeley/Tutorials",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "jpwalker625/UCB_R",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Facundo-Pfeffer/UCBerkeley-SEMM-MS-Codebook",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "covista/safecampus",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "marcuscarr/UCB_cs61a",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "MichaelKhaykin/pl-ucb-cs61b",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "HWH88340/UCB-CS61A-Fall2019",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "chad119/cs61b_ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ryan-whit/ucb-module9",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "rachung304/ucb-tensorflow",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "xieydd/UCB-AI-SYS",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cal-dortiz/UCB_W207_Applied-_Machine_Learning",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "zhiming-xu/CS188",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "WilliamLambertCN/CS188-Homework",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "leehanchung/cs182",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "gorilla-llm/gorilla-cli",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/puppet",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "JonahTurnquist/sp12",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "berkeley-hipie/HIPIE",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "srinadhu/RL_Pacman",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "TowerScout/TowerScout",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "frank-xwang/InstanceDiffusion",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "gdgocucbukavu/flutter_gdgocucb_rattrapage",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "gdgocucbukavu/UjuziAI",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "LBNL-UCB-STI/consist",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-BioE-Anderson-Lab/UCB-BioE-Anderson-Lab.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCBSoftwareArchitecture-codes/UCB.DirtyCodes",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbdsr/course_dev",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/esp-opcodes",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/esp-test-env",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/riskybear",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bar/ucb-bar.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBoulder/pivot-funding-opportunities",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbrise/confluo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbrise/cs294-ai-sys-sp19",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbrise/thought-leaders-fa20",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBerkeleySETI/BL-Reservoir",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UCBerkeleySETI/BL-Scale",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UCBerkeleySETI/blipss",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBerkeleySETI/gbt_seti",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UCBerkeleySETI/turboseti_stream",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbepic/DataAgentBench",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-in-person-project-3-fl25-in-class-project-3-template",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-in-person-project-4-in-person-project-4-template",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-in-person-project-6-assignment-2-template-fl25",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-lab-5-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-lab-5-lab-base-1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-lab-6-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-lab-7-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-lab2-lab-base-2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-lab3-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-FRONTEND-WEBARCH/fl-2025-ucb-info-frontend-webarch-lab4-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-stat-159-s23/hw04-Group10",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/hw04-Group11",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/hw04-Group12",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/hw04-Group14",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/hw04-Group15",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/hw04-group16",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/hw04-Group20",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/hw04-Group21",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/hw04-Group27",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-group10",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-Group11",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-Group12",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-group14",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-Group15",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-group16",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-Group17",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-group19",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-Group20",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-Group21",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-Group27",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s23/project-Group28",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucberkeley/Beehive",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucberkeley/sis-custom",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucberkeley/sis-splash-main",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucberkeley/ucb_confluence",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucberkeley/ucb_deployer",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-assignment-2-assignment-2-template",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-extra-credit-exam-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-in-class-exploration-week-8-in-class-exploration-week-8-template",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-lab-1-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-lab-1-lab-base-1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-lab-3-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-lab-4-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-lab-4-lab-base-1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-lab-4-lab-base-2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-lab-4-lab-base-3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-lab1-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-lab1-lab-base-1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-INFO-BACKEND-WEBARCH/sp-2026-ucb-info-backend-webarch-lab2-lab-base",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-eecs151tapeout/ucb-eecs151tapeout-sp26-chisel-lab",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-stat-159-f25/proj01-group21",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-f25/ucb-stat-159-f25-classroom-blah-hw00",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-stat-159-f25/ucb-stat-159-f25-classroom-hw3-proj01",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-stat-159-f25/ucb-stat-159-f25-classroom-proj02-proj02",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucbsky/ucbsky-cs294-265-spring2026",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.8
+  },
+  {
+    "full_name": "ucbsoj/15sp-onlinenewspackages",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucbsoj/jquery-examples",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbds-infra/ds-course-infra-guide",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-stat133/stat133-fall-2015",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-stat133/stat133-summer-2015",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/UCB-GRUPO8",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_0",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/Ucb_grupo_1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_10",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_12",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_13",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_14",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_15",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/UCB_Grupo_16",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/UCB_Grupo_3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_4",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_5",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_7",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_8",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-bd1-p2-1-2023/ucb_grupo_9",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbvislab/vdigests",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw06-claudea24",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw06-hongbrandon333",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw06-jakej007",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw06-mcvillouta",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw06-min-zzy",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw06-mjmilazzo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw06-nwhaq1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw06-samanthacarr",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw06-wesley-darling",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw07-group13",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw07-Group14",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw07-group20",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-stat-159-s22/hw07-group23",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-BioE-Genetic-Design-Automation/ucb-bioe-genetic-design-automation-2026_bioe234-final_project-mcp-gemini-minimal",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCBTICommunity/.github",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbsps/sps_website",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-IoET/AoE-Group",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-datalab/ucb-datalab.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucbpi/docker-lita",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-courses/yelp-maps",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-ee106-classrooms/EECS-106B-Sp25-Project-3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbtrans/opt",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbtrans/ucb-wzdx",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbugg/cal.day",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucbugg/learn.ucbugg",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.8
+  },
+  {
+    "full_name": "ucbugg/opening-logo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBCFD/MLegS",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-ist-eas/ucb_groups",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBerkeley-TEEM/UCBerkeley-TEEM.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-sts/documentation",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-RAC/consent-builder",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucberkeleyrobotics/ucberkeleyrobotics.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucberkeleyrobotics/website",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucb-hw4ml/ee290_lab1_part2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-A-IML/selfstudy5.1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-Biostatistics-Workshop/biostat_workshop_s23",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucberkeley-cs61c/proj2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-crypto-project/final-project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-xprex/xpets",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-dataj/2018",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-dataj/j200",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-Republic/Gitlet-build",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-Republic/Gitlet-tests",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbtrigales/acordes",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBI-Blockchain-Data-Banking/UCBI-Banking",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.8
+  },
+  {
+    "full_name": "ucbstratflows/ucbstratflows.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-mse/gsc-site",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbti/ucbti.com.br",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.8
+  },
+  {
+    "full_name": "UCBA-ENED1120/ucba-ened1120.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-cs294-256/ucb-cs294-256.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-Data-Analysis-Project/UCB-Group-Project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-las/las-project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBA-ENED1100/ucba-ened1100.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCB-Biopharma/tflmetaR",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBMUN/ucbmun.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.8
+  },
+  {
+    "full_name": "ucbps/ucbps.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ds-modules/ARE210",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/CE200B",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/CIVENG-190",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/ENVECON-118-FA23",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/LS-22",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/MCB-50",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/ps-106a",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ds-modules/SW-282",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "amplab/benchmark",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "amplab/shark",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "amplab/succinct",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "BerkeleyLibrary/geodata",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "BerkeleyLibrary/UCBEARS",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ph142-ucb/ph142-fa21",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ph142-ucb/ph142-sp21",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ph142-ucb/ph142-su21",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "berkeley-cdss/curriculum-guide",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "cspace-deployment/cspace-ui-plugin-ext-ucbnh-concept.js",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cspace-deployment/cspace-ui-plugin-ext-ucbnh-objectexit.js",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cspace-deployment/cspace-ui-plugin-ext-ucbnh-organization.js",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "cspace-deployment/ucb-cspace-scripts.js",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "fletchlab-git/Fletch-Lab-Cell-Scope",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "uc-data-services/ucb-libraries",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "uc-data-services/ucb-library",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "berkeley-stat133/fall-2024",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "berkeley-stat133/spring-2024",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "berkeley-stat133/spring-2025",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "EOPAtCal/ce3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "EOPAtCal/eop",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "EOPAtCal/js",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "EOPAtCal/transfers",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "CS162Berkeley/Project3Skeleton",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "CS162Berkeley/Project4Skeleton",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "elghaouiucbgroup/elghaouiucbgroup.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "Yu-Group/yugroup-website",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UAVs-at-Berkeley/aerobear-git-demo",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UAVs-at-Berkeley/uav-web",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "UAVs-at-Berkeley/v2v-comm-v2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "calico-team/calico-sp24",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "CenterForTheBuiltEnvironment/comfort_tool",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "calstar/sagittaVL",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/coder",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/decal-web",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/grafana",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/irc",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/labmap",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/ocfstatic",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/outline",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/puppetboard",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/rt",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/templates",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ocf/wiitl-laptop-extension",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "PADRESat/padre_meddea",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "PADRESat/padre_sharp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "HaeffnerLab/haeffnerlab.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "BNHM/ecoreader",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "BNHM/reservemapper",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "0xcf/constitution",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "0xcf/decal-labs",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ls88-openscienceconnector/lab05-ericvd-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ugtcs/ugtcs.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "hubbardgroup/hubbardgroup.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "susa-ucb/susa-ucb.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "phoenix-consulting/pcg-site-2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ntxucb/NTUCB-Student-Club-Competition-2023",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ntxucb/ntxucblp",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ntxucb/W1-Introduccion-programacion-python",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "TEDxUCB/tedxucb.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "TEDxUCB/TEDxUCB_web_page",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Kelompok7PIUCB23A/Aplikasi-Penjualan-PIUCB23A",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jose-gabriel-UCB/jose-gabriel-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbethuel/portfolio",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbethuel/ucbethuel",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbethuel/ucbethuel.ng",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCBASiCS/FFAST",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucbdrupal/ucb_appserver",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ucbabe/ucbabe",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w205",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w207",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w207-finalprojectmisc",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w207re",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w207re-final-proj",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w209",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w210-jcgy",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w241",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w241re",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w251",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbiyyq/ucbiyyq-w266-proj",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Ucbro/Ucbro",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCBright2656/UCB_chat",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBright2656/UCB_games",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBright2656/UCB_home",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBright2656/UCB_interactive",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBright2656/UCB_minecraft_plugin",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBI-Blockchain-Banking/UCBI_Presale",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCBI-Blockchain-Banking/UCBI_Smart_Contract",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCBI-Blockchain-Banking/UCBI_Website_Version_2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCBI-Blockchain-Banking/UCBI_Website_Version_3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCBGABRIEL/JAVA-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBGABRIEL/UCBGABRIEL",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucbpsychtech/ucbpsychtech.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-dev/ucb-api",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-dev/ucb-app",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-dev/ucb-dashboard-admin",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "UCBQAQ/ucbqaq.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbeginner/NEWHAVEN_OLED_UCBEGINNER_lib",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbssa/ucbssa.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-lean-course-sp26/ucb-lean-course-sp26.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucb-lean-course-sp26/final-projects",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbrobotics/ucbrobotics.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBF-Aether/UCBF-LAB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBF-Aether/UCBF-Rotation-Curves-and-Clusters-script",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucbdjs/ucbdjs.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucb-econ140/ucb-econ140.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbe-first-project/quiz-app-ucbe",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UcbSkyADRS/UcbSkyADRS.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbc/ucbc.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucborrowingsystem/ucborrowingsystem.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbx-first-project/quiz_app",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBTMember/UCBT.com",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbgs/ucbgs.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbrowser20240323/ucbrowser20240323",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbsweplusplus/sweplusplus.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbucb/LexiconMDB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbsalto/ucbsalto.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "ucbml/ucbml.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCB-UCLA-Workshop2025/UCB-UCLA-Workshop2025.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "UCBrowser2025/UCBrowser2025.github.io",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Lucas-AV/DiaDoDublador-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Lucas-AV/DiaDoOrgulhoAutista-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Lucas-AV/dia_do_dublador-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Lucas-AV/dia_do_orgulho_autista-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Lucas-AV/Sistema-de-Monitoramento-Turistico-UCB-NVT",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "0tt0ni/Filypeottoni_UCB_PW2s",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "pedro-oliveira-ucb/pedro-oliveira-ucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "PSITS-UCB/PSITS-UCB",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ucbfegzyat8369/ucbfegzyat83692611903623",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "Ucboss/Ucboss",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "nikkeichoralensemble/website",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "asaucberkeley/asaweb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "anarchivist/ocf",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "frank-lsf/lsf-homepage",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "concretevitamin/succinct",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "neelsomani/gpt-erdos",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "aangelopoulos/conformal-prediction",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "mbchang/decentralized-rl",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "violetyao/Datong-Society-of-China-Studies",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "GuanhuaWang/sensAI",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "pathak22/videoseg",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "chanwutk/ucb-hci-prelim",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "mattjang96/Hog-Project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "mattjang96/Scheme-Project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "crazybilly/ucbudar",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "chawins/cs189_spring2023_notes",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ruhi1999/newslens-maps",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "JunjieAraoXiong/Return-To-The-Tomb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "ben9583/solar-sim",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "jinkang-0/ucberkeleytaiji",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "NickRyder/website",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "mech-a/fratbot-ee106a-fa22",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "MarkusRabe/cadet",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "aayushg55/CS180_final_project",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "aayushg55/CS180_proj1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "aayushg55/CS180_proj2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "aayushg55/CS180_proj3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "aayushg55/CS180_proj4",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "aayushg55/CS180_proj5",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "kdutta9/linux-decal",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "gabriel93140/ucb-cubstart-hw1",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "gabriel93140/ucb-cubstart-hw2",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "gabriel93140/ucb-cubstart-hw3",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.4
+  },
+  {
+    "full_name": "jegeronimo/cs294-189",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "jegeronimo/kickstarter",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  },
+  {
+    "full_name": "terencetaothucb/terencetaothucb",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 0.6
+  },
+  {
+    "full_name": "ntrip6/geospatial-archaeology",
+    "university": "University of California, Berkeley",
+    "affiliation_score": 1.0
+  }
+]
