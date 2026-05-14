@@ -4,6 +4,7 @@
     "university": "University of California, Santa Cruz",
     "totalRepos": 1296,
     "analyzedRepos": 1292,
-    "generatedAt": "2026-05-14T01:57:57.566Z"
+    "generatedAt": "2026-05-14T01:57:57.566Z",
+    "discoveryThreshold": 0.5
   }
 ]
