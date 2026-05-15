@@ -1,5 +1,21 @@
 [
   {
+    "slug": "mit",
+    "university": "Massachusetts Institute of Technology",
+    "totalRepos": 1357,
+    "analyzedRepos": 748,
+    "generatedAt": "2026-05-15T01:42:44.637Z",
+    "discoveryThreshold": 0.5
+  },
+  {
+    "slug": "stanford",
+    "university": "Stanford University",
+    "totalRepos": 2564,
+    "analyzedRepos": 1743,
+    "generatedAt": "2026-05-15T02:01:25.139Z",
+    "discoveryThreshold": 0.3
+  },
+  {
     "slug": "ucb",
     "university": "University of California, Berkeley",
     "totalRepos": 1008,
