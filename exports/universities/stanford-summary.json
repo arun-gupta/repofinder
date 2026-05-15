@@ -28,5 +28,24 @@
     "community": 2,
     "documentation": 17,
     "security": 0
+  },
+  "highlights": {
+    "totalStars": 192645,
+    "mostStarred": {
+      "repo": "tatsu-lab/stanford_alpaca",
+      "value": 30251
+    },
+    "mostContributors": {
+      "repo": "stanford-crfm/helm",
+      "value": 150
+    },
+    "mostPRs": {
+      "repo": "sul-dlss/sul-requests",
+      "value": 578
+    },
+    "mostIssues": {
+      "repo": "sul-dlss/sul-requests",
+      "value": 140
+    }
   }
 }

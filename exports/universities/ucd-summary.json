@@ -28,5 +28,24 @@
     "community": 4,
     "documentation": 21,
     "security": 0
+  },
+  "highlights": {
+    "totalStars": 1981,
+    "mostStarred": {
+      "repo": "UCDvision/compact3d",
+      "value": 224
+    },
+    "mostContributors": {
+      "repo": "wannabeCitizen/ucdd2-overview",
+      "value": 141
+    },
+    "mostPRs": {
+      "repo": "ucdavis/ASUCD-PicnicDay-Scheduler",
+      "value": 112
+    },
+    "mostIssues": {
+      "repo": "ucd-library/aggie-experts",
+      "value": 117
+    }
   }
 }

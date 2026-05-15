@@ -28,5 +28,24 @@
     "community": 4,
     "documentation": 17,
     "security": 0
+  },
+  "highlights": {
+    "totalStars": 28412,
+    "mostStarred": {
+      "repo": "ShishirPatil/gorilla",
+      "value": 12863
+    },
+    "mostContributors": {
+      "repo": "ucb-bar/esp-llvm",
+      "value": 504
+    },
+    "mostPRs": {
+      "repo": "berkeley-cdss/flextensions",
+      "value": 103
+    },
+    "mostIssues": {
+      "repo": "berkeley-dsep-infra/datahub",
+      "value": 100
+    }
   }
 }

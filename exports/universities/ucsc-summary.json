@@ -28,5 +28,24 @@
     "community": 4,
     "documentation": 22,
     "security": 0
+  },
+  "highlights": {
+    "totalStars": 115987,
+    "mostStarred": {
+      "repo": "Developer-Y/cs-video-courses",
+      "value": 81199
+    },
+    "mostContributors": {
+      "repo": "ucsc-ospo/ucsc-ospo.github.io",
+      "value": 203
+    },
+    "mostPRs": {
+      "repo": "DataBiosphere/azul",
+      "value": 124
+    },
+    "mostIssues": {
+      "repo": "Gaius-Augustus/BRAKER",
+      "value": 110
+    }
   }
 }

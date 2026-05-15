@@ -28,5 +28,24 @@
     "community": 6,
     "documentation": 22,
     "security": 0
+  },
+  "highlights": {
+    "totalStars": 229168,
+    "mostStarred": {
+      "repo": "mitmproxy/mitmproxy",
+      "value": 43543
+    },
+    "mostContributors": {
+      "repo": "remy/mit-license",
+      "value": 1237
+    },
+    "mostPRs": {
+      "repo": "mitre/saf",
+      "value": 1372
+    },
+    "mostIssues": {
+      "repo": "mit-cml/appinventor-sources",
+      "value": 49
+    }
   }
 }
