@@ -1,0 +1,32 @@
+{
+  "slug": "stanford",
+  "university": "Stanford University",
+  "generatedAt": "2026-05-15T02:01:25.139Z",
+  "totalRepos": 2564,
+  "scoredRepos": 1743,
+  "medianScore": 19,
+  "scoreBands": {
+    "high": 0.03,
+    "medium": 0.14,
+    "low": 0.84
+  },
+  "scoreBuckets": [
+    359,
+    760,
+    325,
+    97,
+    38,
+    84,
+    38,
+    22,
+    12,
+    8
+  ],
+  "metrics": {
+    "activity": 5,
+    "maintenance": 2,
+    "community": 2,
+    "documentation": 17,
+    "security": 0
+  }
+}

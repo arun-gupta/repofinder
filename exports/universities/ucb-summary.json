@@ -1,0 +1,32 @@
+{
+  "slug": "ucb",
+  "university": "University of California, Berkeley",
+  "generatedAt": "2026-05-14T19:26:37.960Z",
+  "totalRepos": 1008,
+  "scoredRepos": 681,
+  "medianScore": 19,
+  "scoreBands": {
+    "high": 0.03,
+    "medium": 0.19,
+    "low": 0.79
+  },
+  "scoreBuckets": [
+    104,
+    252,
+    169,
+    47,
+    36,
+    38,
+    17,
+    11,
+    6,
+    1
+  ],
+  "metrics": {
+    "activity": 8,
+    "maintenance": 4,
+    "community": 4,
+    "documentation": 17,
+    "security": 0
+  }
+}

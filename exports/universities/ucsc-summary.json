@@ -1,0 +1,32 @@
+{
+  "slug": "ucsc",
+  "university": "University of California, Santa Cruz",
+  "generatedAt": "2026-05-14T01:55:21.387Z",
+  "totalRepos": 1296,
+  "scoredRepos": 1292,
+  "medianScore": 24,
+  "scoreBands": {
+    "high": 0.1,
+    "medium": 0.28,
+    "low": 0.61
+  },
+  "scoreBuckets": [
+    18,
+    343,
+    402,
+    106,
+    113,
+    108,
+    89,
+    55,
+    35,
+    23
+  ],
+  "metrics": {
+    "activity": 11,
+    "maintenance": 6,
+    "community": 4,
+    "documentation": 22,
+    "security": 0
+  }
+}

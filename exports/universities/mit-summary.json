@@ -1,0 +1,32 @@
+{
+  "slug": "mit",
+  "university": "Massachusetts Institute of Technology",
+  "generatedAt": "2026-05-15T15:15:00.886Z",
+  "totalRepos": 1357,
+  "scoredRepos": 1265,
+  "medianScore": 24,
+  "scoreBands": {
+    "high": 0.08,
+    "medium": 0.24,
+    "low": 0.68
+  },
+  "scoreBuckets": [
+    151,
+    339,
+    343,
+    109,
+    76,
+    104,
+    53,
+    37,
+    20,
+    33
+  ],
+  "metrics": {
+    "activity": 13,
+    "maintenance": 7,
+    "community": 6,
+    "documentation": 22,
+    "security": 0
+  }
+}

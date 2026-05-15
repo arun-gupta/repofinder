@@ -1,0 +1,32 @@
+{
+  "slug": "ucd",
+  "university": "University of California, Davis",
+  "generatedAt": "2026-05-14T19:25:33.809Z",
+  "totalRepos": 1032,
+  "scoredRepos": 953,
+  "medianScore": 23,
+  "scoreBands": {
+    "high": 0.03,
+    "medium": 0.22,
+    "low": 0.75
+  },
+  "scoreBuckets": [
+    197,
+    244,
+    250,
+    77,
+    49,
+    53,
+    54,
+    18,
+    4,
+    7
+  ],
+  "metrics": {
+    "activity": 11,
+    "maintenance": 6,
+    "community": 4,
+    "documentation": 21,
+    "security": 0
+  }
+}
